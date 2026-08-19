@@ -6,3 +6,4 @@ campos desk renonvation project of QUT
     ） 三、木腿具体尺寸为：
     板面：840×300×15mm
     高：100mm
+<img width="377" height="278" alt="Snipaste_2026-08-19_12-13-57" src="https://github.com/user-attachments/assets/2e772df5-bf42-41e9-8b74-a5a564228cca" />
